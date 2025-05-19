@@ -1,0 +1,2 @@
+Sum of Squares: 4982.44
+Average: 30.73
